@@ -3,7 +3,7 @@
 
 ## About me
 
-I am a computer engineering student, currently starting my degree. I am expanding my knowledge in front-end, back-end development and cybersecurity.
+I am a computer engineering student and I am currently starting my degree. I am expanding my knowledge in front-end, back-end development and cybersecurity.
 
 - 🌱 I’m currently learning ...
   - Python
@@ -35,6 +35,7 @@ I am a computer engineering student, currently starting my degree. I am expandin
 <h4>Other Tools and Technologies</h4>
 <span>
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
@@ -44,3 +45,8 @@ I am a computer engineering student, currently starting my degree. I am expandin
 <a href="https://www.linkedin.com/in/ivantrilla/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ivantrilla&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ivantrilla)
+</div>
